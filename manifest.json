@@ -1,11 +1,20 @@
 {
-  "name": "SCORPION SCAN",
+  "name": "HURUF KEREN PRO",
   "short_name": "SCORPION",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#060a14",
+  "background_color": "#030303",
   "theme_color": "#00ff88",
   "icons": [
-    {"src": "s.jpg","sizes": "512x512","type": "image/png"}
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
